@@ -40,7 +40,7 @@ namespace TESTING
                 architect.Stop();
             }
 
-            string longLine = "Hey guys, did you know that in terms of male human and female Pokémon breeding, Vaporeon is the most compatible Pokémon for humans?";
+            string longLine = "Kia's 2024 lineup introduces exciting new models with a focus on electric vehicles (EVs) and hybrid SUVs. The Kia EV9, a large three-row electric SUV, is a key highlight, offering six or seven-passenger configurations and a high-tech interior.";
             if(Input.GetKeyDown(KeyCode.Space)){
                 if(architect.isBuilding){
                     if(!architect.hurryUp){
