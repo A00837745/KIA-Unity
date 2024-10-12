@@ -1,0 +1,19 @@
+Elen "This is line 1"
+Elen "Line 2 from Elen"
+Elen "Line 3 from Elen"
+
+narrator "Narrator is speaking now"
+"Narrator continues to speak"
+
+John "John 1"
+"John 2"
+
+Elen "Elen 1"
+"Elen 2"
+
+speaker "dialogue Line 1{}Line 2{}Line 3"
+
+{c} clear
+{a} append
+{wc n} wait clear
+{wa n} wait append
